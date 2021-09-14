@@ -1,0 +1,1 @@
+{english=Stocks\/Mutual}{posTag=NNP} {english=Funds}{posTag=NNPS} {english=:}{posTag=:} {english=Stocks}{posTag=NNS} {english=and}{posTag=CC} {english=mutual}{posTag=JJ} {english=funds}{posTag=NNS} {english=other}{posTag=JJ} {english=than}{posTag=IN} {english=money-market}{posTag=JJ} {english=funds}{posTag=NNS} {english=.}{posTag=.}
